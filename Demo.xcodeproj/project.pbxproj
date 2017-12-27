@@ -15,6 +15,7 @@
 		749352231FF3941700575DA1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 749352221FF3941700575DA1 /* main.m */; };
 		7493522D1FF3941700575DA1 /* DemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7493522C1FF3941700575DA1 /* DemoTests.m */; };
 		749352381FF3941700575DA1 /* DemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 749352371FF3941700575DA1 /* DemoUITests.m */; };
+		749352471FF39BD700575DA1 /* AVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 749352461FF39BD700575DA1 /* AVC.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		749352331FF3941700575DA1 /* DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		749352371FF3941700575DA1 /* DemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoUITests.m; sourceTree = "<group>"; };
 		749352391FF3941700575DA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		749352451FF39BD700575DA1 /* AVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AVC.h; sourceTree = "<group>"; };
+		749352461FF39BD700575DA1 /* AVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AVC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				749352141FF3941700575DA1 /* AppDelegate.m */,
 				749352161FF3941700575DA1 /* ViewController.h */,
 				749352171FF3941700575DA1 /* ViewController.m */,
+				749352451FF39BD700575DA1 /* AVC.h */,
+				749352461FF39BD700575DA1 /* AVC.m */,
 				749352191FF3941700575DA1 /* Main.storyboard */,
 				7493521C1FF3941700575DA1 /* Assets.xcassets */,
 				7493521E1FF3941700575DA1 /* LaunchScreen.storyboard */,
@@ -267,6 +272,7 @@
 			files = (
 				749352181FF3941700575DA1 /* ViewController.m in Sources */,
 				749352231FF3941700575DA1 /* main.m in Sources */,
+				749352471FF39BD700575DA1 /* AVC.m in Sources */,
 				749352151FF3941700575DA1 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
