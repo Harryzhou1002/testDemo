@@ -20,6 +20,7 @@
     // Do any additional setup after loading the view.
     NSLog(@"ooooooooo");
     NSLog(@"123456789");
+    NSLog(@"00000");
 }
 
 - (void)didReceiveMemoryWarning {
