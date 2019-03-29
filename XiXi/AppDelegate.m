@@ -1,9 +1,9 @@
 //
 //  AppDelegate.m
-//  Demo
+//  XiXi
 //
-//  Created by etmedia on 2017/12/27.
-//  Copyright © 2017年 etmedia. All rights reserved.
+//  Created by harry on 2019/3/29.
+//  Copyright © 2019年 harry. All rights reserved.
 //
 
 #import "AppDelegate.h"
